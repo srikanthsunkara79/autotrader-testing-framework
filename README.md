@@ -43,3 +43,11 @@ Test Expansion -
 2. Negative Testing for all Webelements 
 3. Use Boundary Values analysis to apply filters 
 4. Robost selectors (css, xpath) in case of change in webelements 
+
+Challenges and Issues Encountered - 
+Challenges - 
+1. Selectors for WebElements 
+2. Implementation of Cypress (since I havent used it before)
+
+Issues - 
+1. same values and texts for multiple tags in on WebElement
